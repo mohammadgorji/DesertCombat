@@ -1,4 +1,4 @@
-# DesetCombat-0.3
+# DesertCombat-0.3
 Desert combat is a 3D version of brick breaker games developed with Unity.
 ⭐🥇⭐
 As a brave brick in green, you fight the drought bricks and protect the few remaining green trees.
